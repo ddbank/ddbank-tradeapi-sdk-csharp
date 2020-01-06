@@ -15,10 +15,12 @@ namespace ddbank_tradeapi_sdk_csharp.ddbank.client
         //    reqParams.Add("brandName","品牌商test");
         //    reqParams.Add("storeName","店铺名称test");
         //    reqParams.Add("storeAddr","店铺地址test");
-        //    reqParams.Add("storeType","");//传空字符即可
+        //    reqParams.Add("storeType","2");//直营(1)加盟(2)
         //    reqParams.Add("customName","客户姓名test");
         //    reqParams.Add("brandOrder","NO201909010001");
         //    reqParams.Add("deliverDate", "2019-09-01");
+		//    reqParams.Add("contactName", "某某某");
+		//    reqParams.Add("contactPhone", "13666666666");
         //
         //    Submit(Configuration.API_KEY, Configuration.API_SECRET, reqParams);
         //}
