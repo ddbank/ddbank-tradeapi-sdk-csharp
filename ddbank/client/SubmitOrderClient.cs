@@ -19,8 +19,8 @@ namespace ddbank_tradeapi_sdk_csharp.ddbank.client
         //    reqParams.Add("customName","客户姓名test");
         //    reqParams.Add("brandOrder","NO201909010001");
         //    reqParams.Add("deliverDate", "2019-09-01");
-		//    reqParams.Add("contactName", "某某某");
-		//    reqParams.Add("contactPhone", "13666666666");
+	//    reqParams.Add("contactName", "某某某");
+	//    reqParams.Add("contactPhone", "13666666666");
         //
         //    Submit(Configuration.API_KEY, Configuration.API_SECRET, reqParams);
         //}
